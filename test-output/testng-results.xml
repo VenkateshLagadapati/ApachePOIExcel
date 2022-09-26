@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-26T12:58:40 IST" name="Default suite" finished-at="2022-09-26T12:58:41 IST" duration-ms="1335">
+    <groups>
+    </groups>
+    <test started-at="2022-09-26T12:58:40 IST" name="Default test" finished-at="2022-09-26T12:58:41 IST" duration-ms="1335">
+      <class name="datadriven.DataDrivenTest2">
+        <test-method signature="test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTest2@6a4f1a55]" started-at="2022-09-26T12:58:41 IST" name="test" data-provider="getData" finished-at="2022-09-26T12:58:41 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[saravanan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abc@test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTest2@6a4f1a55]" started-at="2022-09-26T12:58:41 IST" name="test" data-provider="getData" finished-at="2022-09-26T12:58:41 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[seenivasan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abc@test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTest2@6a4f1a55]" started-at="2022-09-26T12:58:41 IST" name="test" data-provider="getData" finished-at="2022-09-26T12:58:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adm@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[saravanan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abc@test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:datadriven.DataDrivenTest2@6a4f1a55]" started-at="2022-09-26T12:58:41 IST" name="test" data-provider="getData" finished-at="2022-09-26T12:58:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adm@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[seenivasan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abc@test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- datadriven.DataDrivenTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
